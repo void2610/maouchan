@@ -7,6 +7,7 @@ unity1week 2025-12（お題：「もうひとつ」）で開発したゲーム�
 **[がんばれ！まおうちゃん！ - unityroom](https://unityroom.com/games/maouchan)**
 
 まおうちゃんが自分の分身を増やして世界征服を目指すクリッカーゲームです。
+![ezgif com-optimize](https://github.com/user-attachments/assets/e2cde8a9-886d-4a08-8848-fc9f06a77578)
 
 アート: うたたね くう໒꒱˖✦ [@kuu_UoxoU](https://x.com/kuu_UoxoU)
 サウンド: ぱむるん [@pamupamulun](https://x.com/pamupamulun)
